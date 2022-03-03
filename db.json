@@ -5,28 +5,50 @@
       "name": "Carven Longue Chair",
       "price":"152$",
       "tag":"Design PRP",
-      "src":"/assets/images/products/11.png"
+      "src":"/assets/images/products/11.png",
+      "dimention":"67cm x 67cm x 20cm",
+      "category":"chair",
+      "material":"wood",
+      "country":"italy",
+      "description":"Nothing says luxury quite like Scott. A sleek silhouette with pulled detail cushions, upholstered in plush velvet – it oozes sophistication. The clean lines nod to mid-century design, and there’s plenty of room to snuggle up."
     },
     {
       "id":2,
       "name": "Homer Bar Stool",
       "price":"281$",
       "tag":"Arta italia",
-      "src":"/assets/images/products/2.png"
+      "src":"/assets/images/products/2.png",
+      "dimention":"69cm x 81cm x 24cm",
+      "category":"chair",
+      "material":"plastic",
+      "country":"italy",
+      "description":"Contemporary and compact, this playful armchair adds style to any room. Mid-century Danish design with a modern twist, check out Ritchie's tapered solid wood legs and contrasting rainbow button detailing. The firm but comfy cushioning bounces back into shape, after even the laziest of Sundays."
+      
     },
     {
       "id":3,
       "name": "Morgan Wing Chair",
       "price":"362$",
       "tag":"Acribs",
-      "src":"/assets/images/products/3.png"
+      "src":"/assets/images/products/3.png",
+      "dimention":"67cm x 67cm x 20cm",
+      "category":"chair",
+      "material":"wood",
+      "country":"france",
+      "description":"Design up top and sleek lines below? That's Jarrod. It's the modern way to add an industrial vibe to your home. Slim metal frame, smooth leather, oversized cushions – on a sofa this sophisticated, you won't want to be anywhere else."
+
     },
     {
       "id":4,
       "name": "Ekelda Chair",
       "price":"362$",
       "tag":"Design PRP",
-      "src":"/assets/images/products/4.png"
+      "src":"/assets/images/products/4.png",
+      "dimention":"73cm x 48cm x 25cm",
+      "category":"chair",
+      "material":"wood",
+      "country":"france",
+      "description":"Mid-century design, with a curved, contemporary frame – Verne's our take on revival style. Note the single-seat cushion, buttoned backrest and angled wooden feet. Oh, and did we mention the water-repellent fabric? Cleaning up those spills = easy."
     }
   ]
 }
