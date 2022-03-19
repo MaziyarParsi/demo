@@ -50,5 +50,9 @@
       "country":"france",
       "description":"Mid-century design, with a curved, contemporary frame – Verne's our take on revival style. Note the single-seat cushion, buttoned backrest and angled wooden feet. Oh, and did we mention the water-repellent fabric? Cleaning up those spills = easy."
     }
-  ]
+  ],
+  "user":{
+    "isRegistered":false
+}
+
 }
